@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zakaria Hamedoun
 - 👀 I’m interested in Computer Science and new technologies
-- 🌱 I’m currently learning Embedded C to programme ARM Cortex Microcontrollers and python to implement machine learning algorithms on this microcontrollers.
+- 🌱 I’m currently learning Embedded C to program ARM Cortex Microcontrollers, and I'm learning python to implement machine learning algorithms on these microcontrollers.
 - 💞️ I’m looking to collaborate on a project of an arduino car that can learn from its environment to overcome obstacles using Reinforcement Machine learning algorithms : Q learning algorithm.
 - 📫 How to reach me :\
 Email    : Zhamedoun1@gmail.com\
