@@ -28,7 +28,7 @@ Linkedin : [Zakaria Hamedoun](https://www.linkedin.com/in/zakaria-hamedoun-6281b
 ![l](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
 ![l](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 <!-- ![l](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) -->
-![l](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+<!-- ![l](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) -->
 
 <!---
 Zakaria-pro/Zakaria-pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
