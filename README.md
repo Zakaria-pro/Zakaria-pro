@@ -7,15 +7,15 @@
 
 - 👋 My name is Zakaria Hamedoun
 - 👀 I’m interested in Computer Science and new technologies
-- 🌱 I’m currently learning Embedded C to program ARM Cortex Microcontrollers, and I'm learning python to implement machine learning algorithms on these microcontrollers.
-- 💞️ I’m looking to collaborate on a project of an arduino car that can learn from its environment to overcome obstacles using Reinforcement Machine learning algorithms : Q learning algorithm.
+<!-- - 🌱 I’m currently learning Embedded C to program ARM Cortex Microcontrollers, and I'm learning python to implement machine learning algorithms on these microcontrollers.
+- 💞️ I’m looking to collaborate on a project of an arduino car that can learn from its environment to overcome obstacles using Reinforcement Machine learning algorithms : Q learning algorithm. -->
 - 📫 How to reach me :\
 Email    : Zhamedoun1@gmail.com\
 Linkedin : [Zakaria Hamedoun](https://www.linkedin.com/in/zakaria-hamedoun-6281b5195/)
 
  ## SKILLS : 
  
- ### CODING :
+ #### CODING :
 <!-- ![langs](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) -->
 <!-- ![lamgs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
 <!-- ![l](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  -->
@@ -30,7 +30,7 @@ Linkedin : [Zakaria Hamedoun](https://www.linkedin.com/in/zakaria-hamedoun-6281b
  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
  <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
  
- ### DESIGN :
+ #### DESIGN :
  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
  
