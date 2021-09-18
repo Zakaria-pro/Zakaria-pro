@@ -29,10 +29,12 @@ Linkedin : [Zakaria Hamedoun](https://www.linkedin.com/in/zakaria-hamedoun-6281b
  	<img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
  <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="NumPy" src=" https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />
+
  
  #### DESIGN :
  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
  <img alt="Adobe Premiere pro" src="https://img.shields.io/badge/Adobe-Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere%20Pro&labelColor=2f2f5b&logoWidth=15"/>
  
- https://github-readme-stats.vercel.app/api/top-langs/?username={Zakaria-pro}
+ 
