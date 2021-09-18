@@ -33,7 +33,8 @@ Linkedin : [Zakaria Hamedoun](https://www.linkedin.com/in/zakaria-hamedoun-6281b
  #### DESIGN :
  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
- 
+ <img alt="Adobe Premiere pro" src=" https://img.shields.io/badge/Adobe%20Premiere%20Pro-Design-blue"/>
+
  
  
 <!-- ![l](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
