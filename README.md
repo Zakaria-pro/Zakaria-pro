@@ -6,7 +6,7 @@
 <div align="left" width="50">
 
 - 👋 My name is Zakaria Hamedoun
-- 👀 I’m interested in Computer Science and new technologies
+- 👀 I’m interested in Computer Science and Frontend Developement
 <!-- - 🌱 I’m currently learning Embedded C to program ARM Cortex Microcontrollers, and I'm learning python to implement machine learning algorithms on these microcontrollers.
 - 💞️ I’m looking to collaborate on a project of an arduino car that can learn from its environment to overcome obstacles using Reinforcement Machine learning algorithms : Q learning algorithm. -->
 - 📫 How to reach me :\
