@@ -5,31 +5,39 @@
 
 <div align="left" width="50">
 
-- 👋 My name is Zakaria Hamedoun
-- 👀 I’m interested in Computer Science and Frontend Developement
-<!-- - 🌱 I’m currently learning Embedded C to program ARM Cortex Microcontrollers, and I'm learning python to implement machine learning algorithms on these microcontrollers.
+- 👋 My name is Zakariae Hamedoun
+- 👀 I’m interested in Computer Science especially Frontend Developement
+<!-- - 🌱 I’m currently prepreping for my defense to become a computer science state engineer
 - 💞️ I’m looking to collaborate on a project of an arduino car that can learn from its environment to overcome obstacles using Reinforcement Machine learning algorithms : Q learning algorithm. -->
 - 📫 How to reach me :\
 Email    : Zhamedoun1@gmail.com\
-Linkedin : [Zakaria Hamedoun](https://www.linkedin.com/in/zakaria-hamedoun-6281b5195/)
+Linkedin : [Zakaria Hamedoun](https://www.linkedin.com/in/zakaria-hamedoun/)
 
- ## SKILLS : 
+ ## SKILLS :
  
- #### CODING :
- ![l](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![langs](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+### Programming Languages:
 ![lamgs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
- 
 ![langs](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![l](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![l](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
- ![l]( https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![l]( https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![l](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![l](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
- ![l](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+ 
+ 
+ ### Frameworks :
+ #### Web:
+![l](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+ 
+ ### Desktop:
+  
+![langs](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 
+![l](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
+### IOT
+![l](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+ 
+### Machine Learning
 ![l](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![l](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![l](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
