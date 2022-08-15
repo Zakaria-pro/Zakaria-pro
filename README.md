@@ -23,10 +23,11 @@ Linkedin : [Zakaria Hamedoun](https://www.linkedin.com/in/zakaria-hamedoun/)
 ![l](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
  
  
- ### Frameworks :
- #### Web:
+ ### Web Frameworks :
+ 
 ![l](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
  
+ ![l](https://img.shields.io/badge/React-092E20?style=for-the-badge&logo=react&logoColor=blue)
 ### IOT
 ![l](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
