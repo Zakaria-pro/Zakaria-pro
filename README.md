@@ -6,9 +6,9 @@
 <div align="left" width="50">
 
 - 👋 My name is Zakariae Hamedoun
-- 👀 I’m interested in Computer Science especially Frontend Developement
-<!-- - 🌱 I’m currently prepreping for my defense to become a computer science state engineer
-- 💞️ I’m looking to collaborate on a project of an arduino car that can learn from its environment to overcome obstacles using Reinforcement Machine learning algorithms : Q learning algorithm. -->
+- 👀 I’m interested in Computer Science especially Frontend Developement 
+- 🌱 I’m currently prepreping for my defense to become a computer science state engineer
+<!-- - 💞️ I’m looking to collaborate on a project of an arduino car that can learn from its environment to overcome obstacles using Reinforcement Machine learning algorithms : Q learning algorithm.  -->
 - 📫 How to reach me :\
 Email    : Zhamedoun1@gmail.com\
 Linkedin : [Zakaria Hamedoun](https://www.linkedin.com/in/zakaria-hamedoun/)
