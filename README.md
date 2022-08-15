@@ -29,7 +29,7 @@ Linkedin : [Zakaria Hamedoun](https://www.linkedin.com/in/zakaria-hamedoun/)
  
 ### IOT
 ![l](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![l](https://img.shields.io/badge/-Raspberry-00979D?style=for-the-badge&logo=Raspberry&logoColor=red)
+![l](https://img.shields.io/badge/-Raspberry-00979D?style=for-the-badge&logo=RaspberryPI&logoColor=red)
 
 ### Machine Learning & Image Processing
 ![l](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
