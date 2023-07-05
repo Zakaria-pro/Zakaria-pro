@@ -16,7 +16,10 @@ Linkedin : [Zakaria Hamedoun](https://www.linkedin.com/in/zakaria-hamedoun/)
  
 ### Javascript / Typescript :
 ![lamgs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![lamgs](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=blue) 
+![lamgs](https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white) 
+![l](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=blue)
+
+
 ![l](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=white)
 ![langs](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white)
 ![l]( https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -26,7 +29,6 @@ Linkedin : [Zakaria Hamedoun](https://www.linkedin.com/in/zakaria-hamedoun/)
  
  ### Web Frameworks :
 ![l](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=green)
-![l](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=blue)
  
 ### IOT
 ![l](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
