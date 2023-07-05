@@ -14,9 +14,10 @@ Linkedin : [Zakaria Hamedoun](https://www.linkedin.com/in/zakaria-hamedoun/)
 
  ## SKILLS :
  
-### Programming Languages:
-![l](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=white)
+### Javascript / Typescript :
 ![lamgs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![lamgs](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=blue) 
+![l](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=white)
 ![langs](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white)
 ![l]( https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![l](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
